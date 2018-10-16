@@ -1,0 +1,4 @@
+Read this text
+- 2018, 10, 16 test edit
+- from now on, edit this dir, for test
+- merge, branch, clone, remote, pull, push, (pull request) etc..
